@@ -1,2 +1,2 @@
 # primera-prueba
-Mi primer repositorio en GitHub
+Mi primer readme en GitHub
